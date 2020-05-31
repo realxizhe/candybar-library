@@ -30,7 +30,7 @@
         <!-- What is the \"report bugs\" option? -->
         <item>“反馈问题” 选项是什么？</item>
         <!-- My launcher is listed in the google play description, but why isn\'t it included in apply section? -->
-        <item>Google Play 描述中包含了我使用的启动器，但为什么在应用图标屏里没有？</item>
+        <item>应用商店 描述中包含了我使用的启动器，但为什么在应用图标屏里没有？</item>
         <!-- Wallpaper can\'t be applied, just showing black screen? -->
         <item>壁纸无法应用，只是黑屏？</item>
         <!-- Muzei: How to load downloaded wallpapers only? -->
@@ -60,7 +60,7 @@
         <item>一组能够改变应用抽屉中应用程序的图标的图形们。</item>
         <!-- How do i use an icon pack? -->
         <item>你需要一个支持自定义图标包的启动器。
-受支持的启动器们已经在 Play 商店中列出来了。
+受支持的启动器们已经在应用商店中列出来了。
 如果你不知道该用哪一个启动器，去程序中的 “应用” 屏幕，然后从哪里安装一个。</item>
         <!-- How do i apply an icon pack? -->
         <item>你可以打开导航抽屉，然后选择 “应用图标”。从列表中选择你的启动器。
@@ -113,7 +113,7 @@ Muzei 并不会在每次壁纸变化的时候下载壁纸。你需要先在 Dash
         <!-- Why is Access Network State permission needed? -->
         <item>是用来检查你的手机是否拥有互联网连接的。</item>
         <!-- Why is Access Wifi State permission needed? -->
-        <item>是用来检查你的手机是否连接到 Wifi 网络的，以便载入 Muzei 上的云端壁纸。</item>
+        <item>是用来检查你的手机是否连接到无线网络的，以便载入 Muzei 上的云端壁纸。</item>
         <!-- Why is Set Wallpaper permission needed? -->
         <item>是用来从 Dashboard 程序中直接应用壁纸的。</item>
         <!-- Why is Wake Lock Permission needed? -->
